@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright (C) 2008 ZXing authors
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ -->
+<resources>
+  <color name="contents_text">#ff000000</color>
+  <color name="encode_view">#ffffffff</color>
+  <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+  <color name="result_minor_text">#ffc0c0c0</color>
+  <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+  <color name="result_text">#ffffffff</color>
+  <color name="barcode_result_view">#2f2f2f</color>
+  <color name="status_text">#ffffffff</color>
+  <color name="transparent">#00000000</color>
+  <color name="viewfinder_laser">#ff5c5c</color> <!-- Android standard ICS color -->
+  <color name="viewfinder_mask">#60000000</color>
+
+  <color name="color_white_bg">#EDEDED</color>
+  <color name="scan_result_title_cl">#666666</color>
+  <color name="scan_result_light_gray_cl">#999999</color>
+  <color name="scan_result_line_cl">#e6e6e6</color>
+  <color name="view_background">#ffffff</color>
+  <color name="header_view_background">#f4f4f4</color>
+  <color name="header_view_line">#d2d2d2</color>
+  <color name="scan_record_text">#333333</color>
+  <color name="scan_record_price">#ff5c5c</color>
+
+</resources>
